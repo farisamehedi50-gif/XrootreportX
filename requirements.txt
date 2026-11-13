@@ -1,0 +1,5 @@
+python-telegram-bot
+telethon
+Flask
+requests
+psutil
